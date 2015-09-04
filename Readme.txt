@@ -1,5 +1,5 @@
 === Bx Image slider  ===
-Contributors: anjit vishwakarma
+Contributors: anjitvishwakarma
 Donate link: http://anjit-helponsoftware.blogspot.com/
 Tags: Slider, bx slider
 Requires at least: 3.0.1
